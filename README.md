@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kashni06/problem-solving/tree/master/0231-power-of-two) |
+| [1054-complement-of-base-10-integer](https://github.com/Kashni06/problem-solving/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
