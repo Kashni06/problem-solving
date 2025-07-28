@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kashni06/problem-solving/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Kashni06/problem-solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kashni06/problem-solving/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kashni06/problem-solving/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kashni06/problem-solving/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kashni06/problem-solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
