@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kashni06/problem-solving/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Kashni06/problem-solving/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Kashni06/problem-solving/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
