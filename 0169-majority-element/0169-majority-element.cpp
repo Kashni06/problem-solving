@@ -1,5 +1,6 @@
 class Solution {
 public:
+//moore voting algorithm approach in O(n) time complexity
     int majorityElement(vector<int>& nums) {
        int candidate,count=0,n=nums.size();
        for(int i=0;i<n;i++){
