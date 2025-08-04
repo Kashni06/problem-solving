@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kashni06/problem-solving/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kashni06/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/Kashni06/problem-solving/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -54,4 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kashni06/problem-solving/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
