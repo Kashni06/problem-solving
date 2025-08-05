@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/Kashni06/problem-solving/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
