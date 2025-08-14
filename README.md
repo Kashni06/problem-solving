@@ -74,5 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kashni06/problem-solving/tree/master/0022-generate-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Kashni06/problem-solving/tree/master/1205-defanging-an-ip-address) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kashni06/problem-solving/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kashni06/problem-solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
