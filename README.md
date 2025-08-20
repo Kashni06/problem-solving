@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Kashni06/problem-solving/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Kashni06/problem-solving/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kashni06/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Kashni06/problem-solving/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kashni06/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
