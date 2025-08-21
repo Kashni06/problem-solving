@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Kashni06/problem-solving/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/Kashni06/problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kashni06/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kashni06/problem-solving/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Kashni06/problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/Kashni06/problem-solving/tree/master/1205-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
