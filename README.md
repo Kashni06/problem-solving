@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Kashni06/problem-solving/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Kashni06/problem-solving/tree/master/0048-rotate-image) |
+| [0128-longest-consecutive-sequence](https://github.com/Kashni06/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kashni06/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/Kashni06/problem-solving/tree/master/0792-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kashni06/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kashni06/problem-solving/tree/master/0022-generate-parentheses) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kashni06/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
