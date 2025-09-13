@@ -1,21 +1,22 @@
 class Solution {
   public:
     bool hasTripletSum(vector<int> &arr, int target) {
-        int n = arr.size();
-        sort(arr.begin(), arr.end()); // two-pointer only works if array is sorted
-
-        for (int i = 0; i < n - 2; i++) {
-            int ans = target - arr[i];
-            int start = i + 1, end = n - 1;
-            while (start < end) {
-                if (arr[start] + arr[end] == ans)
-                    return true;
-                else if (arr[start] + arr[end] > ans)
-                    end--;
-                else
-                    start++;
-            }
-        }
-        return false;
+        // Code Here
+       sort(arr.begin(),arr.end());
+       int n=arr.size();
+       for(int i=0;i<n-2;i++){
+           int left=i+1,right=n-1;
+           while(left<right){
+               int currSum=arr[i]+arr[left]+arr[right];
+               if(currSum==target){
+                   return true;
+               }
+               else if(currSum<target)
+               left++;
+               else right--;
+           }
+       }
+       return false;
+        
     }
 };
