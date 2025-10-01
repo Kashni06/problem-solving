@@ -3,23 +3,16 @@ class Solution {
     vector<int> findTwoElement(vector<int>& arr) {
         // code here
         int n=arr.size();
-        for(int i=0;i<n;i++)
-        arr[i]--;
-        
-        
-        //occurence
-        for(int i=0;i<n;i++)
-        {
-            arr[arr[i]%n]+=n;
+        vector<int>freq(n+1,0);
+        int missing=-1;
+        int duplicate=-1;
+        for(int num:arr){
+            freq[num]++;
         }
-        vector<int>ans(2);
-        for(int i=0;i<n;i++){
-            //repeating number
-            if(arr[i]/n==2)
-            ans[0]=i+1;
-            else if(arr[i]/n==0) //missing number
-            ans[1]=i+1;
+        for(int i=1;i<=n;i++){
+            if(freq[i]==0) missing=i;
+            if(freq[i]>1) duplicate=i;
         }
-        return ans;
+        return {duplicate,missing};
     }
 };
