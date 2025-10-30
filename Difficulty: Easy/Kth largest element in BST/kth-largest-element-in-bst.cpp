@@ -1,17 +1,28 @@
 class Solution {
   public:
-    int kthLargest(Node *root, int &k) {
-        // Your code here
-        if(!root || k<0)return -1;
-        
-        int right = kthLargest(root->right,k);
-        
-        k--;
-        if(k==0)return root->data;
-        
-        int left = kthLargest(root->left,k);
-        
-        return max(left,right);
-        
+    int count = 0;   // To keep track of visited nodes
+    int ans = -1;    // To store the Kth largest element
+
+    void reverseInorder(Node* root, int K) {
+        if (root == nullptr || count >= K) 
+            return;
+
+        // Step 1: Go right first (largest values first)
+        reverseInorder(root->right, K);
+
+        // Step 2: Visit current node
+        count++;
+        if (count == K) {
+            ans = root->data;
+            return;
+        }
+
+        // Step 3: Go left
+        reverseInorder(root->left, K);
+    }
+
+    int kthLargest(Node *root, int K) {
+        reverseInorder(root, K);
+        return ans;
     }
 };
