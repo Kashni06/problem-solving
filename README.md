@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kashni06/problem-solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Kashni06/problem-solving/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Kashni06/problem-solving/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kashni06/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kashni06/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0475-heaters](https://github.com/Kashni06/problem-solving/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Kashni06/problem-solving/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kashni06/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
