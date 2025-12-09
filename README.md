@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Kashni06/problem-solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kashni06/problem-solving/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Kashni06/problem-solving/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Kashni06/problem-solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kashni06/problem-solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kashni06/problem-solving/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Kashni06/problem-solving/tree/master/0292-nim-game) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Kashni06/problem-solving/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Kashni06/problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kashni06/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Kashni06/problem-solving/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Kashni06/problem-solving/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Kashni06/problem-solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Kashni06/problem-solving/tree/master/0475-heaters) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kashni06/problem-solving/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Kashni06/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kashni06/problem-solving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Kashni06/problem-solving/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
