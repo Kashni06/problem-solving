@@ -1,27 +1,27 @@
 // User function Template for C++
 class Solution {
-  public:
+public:
     bool armstrongNumber(int n) {
         int original = n;
-        int count = 0;
-
-        // Step 1: Count number of digits
+        int digits = 0;
         int temp = n;
-        while (temp) {
-            count++;
+
+        // count digits
+        while (temp > 0) {
+            digits++;
             temp /= 10;
         }
 
-        // Step 2: Calculate sum of digits raised to count
-        int ans = 0;
+        int sum = 0;
         temp = n;
-        while (temp) {
-            int rem = temp % 10;
-            ans += pow(rem, count);
+
+        // calculate Armstrong sum
+        while (temp > 0) {
+            int digit = temp % 10;
+            sum += pow(digit, digits);
             temp /= 10;
         }
 
-        // Step 3: Compare with original number
-        return ans == original;
+        return sum == original;
     }
 };
