@@ -5,10 +5,14 @@ class Solution {
     void rotate(vector<int> &arr) {
         // code here
         int n=arr.size();
-        int temp=arr[n-1];
-        for(int i=n-2;i>=0;i--){
-            arr[i+1]=arr[i];
+        if(n<=1){
+            return;
         }
-        arr[0]=temp;
+        int last=arr[n-1];
+        
+        for(int i=n-1;i>0;i--){
+            arr[i]=arr[i-1];
+        }
+        arr[0]=last;
     }
 };
